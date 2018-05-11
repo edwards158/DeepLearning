@@ -1,2 +1,2 @@
 # DeepLearning
-exercises and projects in the field of deep learning
+Completed sxercises and projects in the field of deep learning
