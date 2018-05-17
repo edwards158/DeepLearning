@@ -2,7 +2,9 @@
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
 
-There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
+There are also notebooks used as my answers to deep learning projects for the Nanodegree program.
+
+I run these notebook on machine with GeForce 1060 6Gb.   
 
 ## Table Of Contents
 
@@ -40,7 +42,3 @@ Each directory has a `requirements.txt` describing the minimal dependencies requ
 ### pip
 
 To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
-
-### Conda Environments
-
-You can find Conda environment files for the Deep Learning program in the `environments` folder. Note that environment files are platform dependent. Versions with `tensorflow-gpu` are labeled in the filename with "GPU".
