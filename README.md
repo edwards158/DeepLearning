@@ -4,7 +4,7 @@ This repository contains my answers to the assignment material related to Udacit
 
 There are also notebooks used as my answers to deep learning projects for the Nanodegree program.
 
-I run these notebook on machine with GeForce 1060 6Gb.   
+I run these notebooks on a Windows machine with GeForce 1060 6Gb.   
 
 ## Table Of Contents
 
