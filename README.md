@@ -6,9 +6,10 @@ The other material is notebooks of experiments, hacks and code ideas from variou
 
 - [Sebastian Raschka](https://sebastianraschka.com/books.html)
 - [Jason Brownlee](https://machinelearningmastery.com)
-- [Sebastian Ruder] (http://ruder.io/optimizing-gradient-descent/)
+- [Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/)
 - [Ritchie Ng](https://www.ritchieng.com/)
-- Kevin Markham(https://www.youtube.com/user/dataschool)
+- [Kevin Markham](https://www.youtube.com/user/dataschool)
+
 I run these notebooks on a Windows machine with GeForce 1060 6Gb.   
 
 ## Table Of Contents
