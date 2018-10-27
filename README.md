@@ -1,14 +1,14 @@
-# Deep Learning Nanodegree Foundation
-
-This repository contains my answers to the assignment material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
-
-There are also notebooks used as my answers to deep learning projects for the Nanodegree program.
+# Deep Learning
 
 This repository contains my work in the field of Deep Learning.  Some of the notebooks relate to the  [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program, which consists of a bunch of tutorial notebooks for various deep learning topics.  These notebooks are mostly implemented in Tensorflow.
 
-The other material is notebooks of experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemnted in Keras (Tensorflow backend).  
+The other material is notebooks of experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemented in Keras with Tensorflow backend.  For these notebooks I have used the following sources as my guide:
 
-
+- [Sebastian Raschka](https://sebastianraschka.com/books.html)
+- [Jason Brownlee](https://machinelearningmastery.com)
+- [Sebastian Ruder] (http://ruder.io/optimizing-gradient-descent/)
+- [Ritchie Ng](https://www.ritchieng.com/)
+- Kevin Markham(https://www.youtube.com/user/dataschool)
 I run these notebooks on a Windows machine with GeForce 1060 6Gb.   
 
 ## Table Of Contents
