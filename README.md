@@ -23,7 +23,12 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 
 ### Keras
 
-* [Keras](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
+* [Keras Starter](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
+* [Model Evaluation](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Evaluate a Deep Learning Model with cross validation
+* [SciKit Learn](https://github.com/riched158/Keras/blob/master/keras/Keras3_SciKit.ipynb): Use Deep Learning Models with SciKit-Learn
+* [Multiclass Classification](https://github.com/riched158/Keras/blob/master/keras/Keras4_Multiclass.ipynb): Uses famous iris dataset
+* [Binary Classification](https://github.com/riched158/Keras/blob/master/keras/Keras5_Binary_Classification.ipynb): Predict binary target data
+
 
 
 
