@@ -22,11 +22,11 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Your First Neural Network](https://github.com/riched158/DeepLearning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
 
 ### Keras
-* [Keras](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb):Simple Keras Deep learning model
 
-### Projects
+* [Keras](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
 
-* [Your First Neural Network](https://github.com/riched158/DeepLearning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
+
+
 
 
 
