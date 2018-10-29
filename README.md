@@ -2,7 +2,7 @@
 
 This repository contains my work in the field of Deep Learning.  Some of the notebooks relate to the  [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program, which consists of a bunch of tutorial notebooks for various deep learning topics.  These notebooks are mostly implemented in Tensorflow.
 
-The other material is notebooks of experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemented in Keras with Tensorflow backend.  For these notebooks I have used the following sources as my guide:
+The other material is notebooks of tutorials, experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemented in Keras with Tensorflow backend.  For these notebooks I have used the following sources as my guide:
 
 - [Sebastian Raschka](https://sebastianraschka.com/books.html)
 - [Jason Brownlee](https://machinelearningmastery.com)
@@ -22,6 +22,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Your First Neural Network](https://github.com/riched158/DeepLearning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
 
 ### Keras
+#### Most of these notebooks are short introductions to Deep learning with Keras
 
 * [Keras Starter](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
 * [Model Evaluation](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Evaluate a Deep Learning Model with cross validation
