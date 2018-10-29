@@ -33,7 +33,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
-* [IMDB Sentiment](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
+* [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
 
 
 
