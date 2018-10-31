@@ -35,6 +35,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
 * [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
+* [Predicting Number of Airline Passenegers] (https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb)
 
 
 
