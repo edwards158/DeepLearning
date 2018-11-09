@@ -22,7 +22,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Your First Neural Network](https://github.com/riched158/DeepLearning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
 
 ### Keras
-#### Most of these notebooks are short introductions to Deep learning with Keras
+#### Keras Basics
 
 * [Keras Starter](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
 * [Model Evaluation](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Evaluate a Deep Learning Model with cross validation
@@ -37,7 +37,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
 * [Prediction](https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb) Trying to predict airline passeneger numbers
 
-
+#### Keras NLP
 
 
 
