@@ -4,11 +4,13 @@ This repository contains my work in the field of Deep Learning.  Some of the not
 
 The other material is notebooks of tutorials, experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemented in Keras with Tensorflow backend.  For these notebooks I have used the following sources as my guide:
 
-- [Sebastian Raschka](https://sebastianraschka.com/books.html)
-- [Jason Brownlee](https://machinelearningmastery.com)
-- [Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/)
-- [Ritchie Ng](https://www.ritchieng.com/)
-- [Kevin Markham](https://www.youtube.com/user/dataschool)
+[Udacity](https://eu.udacity.com/) &nbsp; 
+[Coursera](https://www.coursera.org) &nbsp; 
+[Kaggle](https://www.kaggle.com) &nbsp; 
+[Sebastian Raschka](https://sebastianraschka.com/books.html) &nbsp; 
+[Jason Brownlee](https://machinelearningmastery.com) &nbsp; 
+[Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/) &nbsp; 
+[Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp; 
 
 I run these notebooks on a Windows machine with GeForce 1060 6Gb.   
 
