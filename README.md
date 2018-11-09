@@ -44,6 +44,6 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Preparing Text Data](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP1_CleaningAndVectorizers.ipynb): Preparing and applying scikit-learn and keras vectorizers to text data  
 * [Movie Reviews](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP4_MoviePrep.ipynb): Formatting IMDB movie review data ready for analysis
 * [Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP6_Movie_Models.ipynb): Sentiment analysis on the prepared movie reviews using Bag of Words model.
-
+* [Model Validation](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP7_MovieValidation.ipynb): Model validation of the trained movie reviews
 
 
