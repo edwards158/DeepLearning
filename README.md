@@ -47,5 +47,8 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Model Validation](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP7_MovieValidation.ipynb): Model validation of the trained movie reviews
 * [Language Model](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP11_LanguageModel.ipynb): Tring to predict text using LSTMs
 
+#### Keras CNN
+
+* [Keras Covnets](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersv2.ipynb): Using the Keras Framework tools to process images
 
 
