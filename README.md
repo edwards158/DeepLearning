@@ -26,6 +26,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 ### Keras
 #### Keras Basics
 
+* [Deep Learning Network Tutorial](https://github.com/riched158/Keras/blob/master/keras/DeepTutorial.ipynb): Exploring MLP,CNN and RNNs
 * [Keras Starter](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Simple Keras starter neural network
 * [Model Evaluation](https://github.com/riched158/Keras/blob/master/keras/Keras1.ipynb): Evaluate a Deep Learning Model with cross validation
 * [SciKit Learn](https://github.com/riched158/Keras/blob/master/keras/Keras3_SciKit.ipynb): Use Deep Learning Models with SciKit-Learn
