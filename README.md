@@ -37,8 +37,6 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
-* [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
-* [Prediction](https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb):Trying to predict airline passeneger numbers with LSTMs
 
 #### Keras NLP
 
@@ -47,9 +45,13 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP6_Movie_Models.ipynb): Sentiment analysis on the prepared movie reviews using Bag of Words model.
 * [Model Validation](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP7_MovieValidation.ipynb): Model validation of the trained movie reviews
 * [Language Model](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP11_LanguageModel.ipynb): Tring to predict text using LSTMs
+* [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
 
 #### Keras CNN
 
 * [Keras Covnets](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersv2.ipynb): Using the Keras Framework tools to process images
 * [Pre-Trained Covnet](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersV4.ipynb): Using the Keras Framework tools to process images using pre-trained covnet
 
+#### Keras LSTM
+
+* [Prediction](https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb):Trying to predict airline passeneger numbers with LSTMs
