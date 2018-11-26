@@ -55,3 +55,6 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 #### Keras LSTM
 
 * [Prediction](https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb): Trying to predict airline passeneger numbers with LSTMs
+
+#### Keras Audio
+* [Audio Classification Part1](https://github.com/riched158/Keras/blob/master/keras/UrbanSound1.ipynb): Looking at the audio classification of street sounds
