@@ -46,9 +46,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Model Validation](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP7_MovieValidation.ipynb): Model validation of the trained movie reviews
 * [Language Model](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP11_LanguageModel.ipynb): Tring to predict text using LSTMs
 * [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
-* [Quora Kaggle Challenge](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): First Attempt at Kaggle Quora challenge using word embedding and CNN model 
-
-
+* [Quora Kaggle Challenge](https://github.com/riched158/Kaggle/blob/master/P1/Quora1.ipynb): First Attempt at Kaggle Quora challenge using word embedding and CNN model 
 
 
 #### Keras CNN
