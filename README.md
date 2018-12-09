@@ -53,6 +53,9 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 
 * [Keras Covnets](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersv2.ipynb): Using the Keras Framework tools to process images
 * [Pre-Trained Covnet](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersV4.ipynb): Using the Keras Framework tools to process images using pre-trained covnet
+* [Whale Id](https://github.com/riched158/Kaggle/blob/master/P1/Whale1.ipynb): First attempt at Kaggle Whale Id challenge
+
+
 
 #### Keras LSTM
 
