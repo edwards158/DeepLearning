@@ -20,7 +20,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 
 * [Sentiment Analysis with Numpy](https://github.com/riched158/DeepLearning/tree/master/sentiment-network): Build a sentiment analysis model, predicting if some text is positive or negative.
 * [Intro to TensorFlow](https://github.com/riched158/DeepLearning/tree/master/intro_to_tensorflow): Starting building neural networks with Tensorflow.
-* [Weight Intialization](https://github.com/riched158/DeepLearning/tree/master/weight-initialization): Explore how initializing network weights affects performance.
+* [Weight Intialization](https://github.com/riched158/DeepLearning/blob/master/weight-initialization/weight_initialization.ipynb): Explore how initializing network weights affects performance.
 * [Your First Neural Network](https://github.com/riched158/DeepLearning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
 
 ### Keras
