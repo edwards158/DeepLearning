@@ -26,14 +26,14 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 ### Keras
 #### Deep Learning Basics
 
-* [Deep Learning Network Tutorial](https://github.com/riched158/Keras/blob/master/keras/DeepTutorial.ipynb): Exploring MLP,CNN and RNNs
+* [Deep Learning Network Tutorial](https://github.com/riched158/Keras/blob/master/keras/DeepTutorial.ipynb): Exploring MLP, CNN and RNNs
 * [SciKit Learn](https://github.com/riched158/Keras/blob/master/keras/Keras3_SciKit.ipynb): Using cross validation and grid search on a simple dataset
 * [Multiclass Classification](https://github.com/riched158/Keras/blob/master/keras/Keras4_Multiclass.ipynb): Uses famous iris dataset
 * [Binary Classification](https://github.com/riched158/Keras/blob/master/keras/Keras5_Binary_Classification.ipynb): Predict binary target data
 * [Regression](https://github.com/riched158/Keras/blob/master/keras/Keras6_Regression.ipynb):  Regression of House prices and tuning of network topology
 
 #### Better Deep Learning
-* [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capcity on a complex multi class dataset
+* [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capacity on a complex multiclass dataset
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
 * [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
