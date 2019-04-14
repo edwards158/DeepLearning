@@ -33,19 +33,13 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Multiclass Classification](https://github.com/riched158/Keras/blob/master/keras/Keras4_Multiclass.ipynb): Uses famous iris dataset
 * [Binary Classification](https://github.com/riched158/Keras/blob/master/keras/Keras5_Binary_Classification.ipynb): Predict binary target data
 * [Regression](https://github.com/riched158/Keras/blob/master/keras/Keras6_Regression.ipynb):  Regression of House prices and tuning of network topology
-* [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
-* [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
-
 
 #### Better Deep Learning
+* [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capcity on a complex multi class dataset
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
-
-* [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capcity on a complex multi class dataset
-
-
-
-
+* [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
+* [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
 
 
 
