@@ -34,6 +34,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 
 #### Better Deep Learning
 * [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capacity on a complex multiclass dataset
+* [Batch Size and Gradient Descent](https://github.com/riched158/Keras/blob/master/keras/BatchSizesConfig.ipynb): Investigating Batch, Stochastic and Minibatch Gradient descent
 * [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
 * [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
