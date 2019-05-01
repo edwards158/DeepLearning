@@ -39,8 +39,7 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
 * [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
 * [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
-
-
+* [Early Stopping](https://github.com/riched158/Keras/blob/master/keras/EarlyStopping.ipynb): Use Keras API to employ early stopping on a dataset
 
 #### NLP
 
